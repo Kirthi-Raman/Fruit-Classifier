@@ -16,3 +16,5 @@ It tells about the chances of being incorrect.
 ## Useful Links
 https://www.youtube.com/watch?v=LDRbO9a6XPU
 
+##  Future Plan
+Try the decision tree on multiple inputs (fruit type) and with more features.

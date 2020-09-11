@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=LDRbO9a6XPU
 
 ##  Future Plan
 Try the decision tree on multiple inputs (fruit type) and with more features.
+Implement decision tree on different use cases like identifying wine types, chocolates, etc 

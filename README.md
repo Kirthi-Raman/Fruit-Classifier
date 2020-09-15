@@ -1,5 +1,5 @@
 # Fruit-Classifier
-Decision Tree Classifier to identify 3 fruits: apples, lemons and grapes from the dataset
+Decision Tree Classifier to identify 3 fruits: mango, plum and cherry from the dataset
 
 ## Concepts
 1. Decision Tree Learning Algorithm:<br>

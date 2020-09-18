@@ -18,6 +18,7 @@ It tells about the chances of being incorrect.
 
 ## Useful Links
 https://www.youtube.com/watch?v=LDRbO9a6XPU
+https://en.wikipedia.org/wiki/Decision_tree_learning
 
 ##  Future Plan
 Try the decision tree on multiple inputs (fruit type) and with more features.

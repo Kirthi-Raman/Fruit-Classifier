@@ -15,6 +15,7 @@ It tells about the chances of being incorrect.
   4.2 class_count: counts the unique values in a column<br>
   4.3 is_numeric: identifies if a value is a number or not<br>
 
+5. Leaf and Node based tree based decision making based on iterative Questions
 
 ## Useful Links
 https://www.youtube.com/watch?v=LDRbO9a6XPU

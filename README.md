@@ -18,7 +18,7 @@ It tells about the chances of being incorrect.
 5. Leaf and Node based tree based decision making based on iterative Questions
 
 ## Useful Links
-https://www.youtube.com/watch?v=LDRbO9a6XPU
+https://www.youtube.com/watch?v=LDRbO9a6XPU <br>
 https://en.wikipedia.org/wiki/Decision_tree_learning
 
 ##  Future Plan

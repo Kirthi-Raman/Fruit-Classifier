@@ -22,5 +22,7 @@ https://www.youtube.com/watch?v=LDRbO9a6XPU <br>
 https://en.wikipedia.org/wiki/Decision_tree_learning
 
 ##  Future Plan
-Try the decision tree on multiple inputs (fruit type) and with more features.
-Implement decision tree on different use cases like identifying wine types, chocolates, etc 
+Try the decision tree on multiple inputs (fruit type) and with more features.<br>
+Implement decision tree on different use cases like identifying wine types, chocolates, etc<br>
+Try using different classifier and compare the difference its working
+
